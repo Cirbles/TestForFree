@@ -1,0 +1,4 @@
+case,domain,port,method,api,param,body
+case1,www.baidu.com,123,GET,api/u/c,u=a&b=c,{}
+case2,,123,GET,api/u/c,u=a&b=c,{}
+case3,www.baidu.com,123,GET,api/u/c,u=a&b=c,{}
