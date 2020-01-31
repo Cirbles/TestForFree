@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f29c0372-5f94-408d-a715-22048ae48c0f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/testCase/UnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/testCase/UnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/case/TestData.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/case/TestData.json" afterDir="false" />
-    </list>
+    <list default="true" id="f29c0372-5f94-408d-a715-22048ae48c0f" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,10 +149,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="52" key="CommitChangelistDialog2" timestamp="1580450103953">
+    <state x="379" y="52" key="CommitChangelistDialog2" timestamp="1580453968671">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="379" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580450103953" />
+    <state x="379" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580453968671" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1579588516757">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
